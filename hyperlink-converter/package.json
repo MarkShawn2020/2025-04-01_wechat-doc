@@ -1,0 +1,24 @@
+{
+  "name": "hyperlink-converter",
+  "version": "1.0.0",
+  "description": "A tool to convert special format hyperlinks to a cleaner format",
+  "main": "hyperlink_converter_module.js",
+  "bin": {
+    "hyperlink-converter": "./hyperlink_converter.js"
+  },
+  "scripts": {
+    "start": "node hyperlink_converter.js",
+    "example": "node example.js"
+  },
+  "keywords": [
+    "hyperlink",
+    "converter",
+    "markdown",
+    "wechat"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0"
+  }
+} 
