@@ -1,0 +1,9 @@
+# Test Sample
+
+This is a test file with some hyperlink formats:
+
+\u0013HYPERLINK https://drive.weixin.qq.com/s?k=AJcAfAclAAYnJITNKgAcgAdQaqABs docLink \\tdfe 1004 \\tdfu https://drive.weixin.qq.com/s?k=AJcAfAclAAYnJITNKgAcgAdQaqABs \\l  \\tdft Wedrive \\tdfid i.1970324940094615.1688854619387336_f.742099757wvVK \\tdfn 01.mp4 \\tdlt preview \\tdlf FromUploadFile \\tdtf 0 \\tdh 4505.625 \\tdw 8010 \u001401.mp4\u0015
+
+Normal text in between.
+
+\u0013HYPERLINK https://drive.weixin.qq.com/s?k=AJcAfAclAAYFpqpQj5AcgAdQaqABs docLink \\tdfe 1004 \\tdfu https://drive.weixin.qq.com/s?k=AJcAfAclAAYFpqpQj5AcgAdQaqABs \\l  \\tdft Wedrive \\tdfid i.1970324940094615.1688854619387336_f.742100034oCeX \\tdfn 02.mp4 \\tdlt preview \\tdlf FromUploadFile \\tdtf 0 \\tdh 4530 \\tdw 8053.333333333334 \u001402.mp4\u0015 
